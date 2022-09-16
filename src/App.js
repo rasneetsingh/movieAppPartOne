@@ -20,8 +20,6 @@ function App() {
       setMovies(responseJson.Search);
     }
 
-    
-    
   };
 
   useEffect(() => {
